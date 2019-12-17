@@ -1,0 +1,5 @@
+Maze//クラス＆コンストラクタ
+GetWall//壁の有無　メソッド
+MazeData//迷路のデータ フィールド変数
+StartPoint//初期位置　フィード変数
+MazeSize//大きさ　フィールド変数
